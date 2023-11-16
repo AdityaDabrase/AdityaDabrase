@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on building data science applications 
+- 🌱 I’m currently learning Front end development
+- 👯 I’m looking to collaborate on anything creative!
+- 🤔 I’m looking for help with iOS development
+- 💬 Ask me about Data analytics, statistics, python and Tableau
+- 📫 How to reach me: Dm on LinkedIn or E-mail: dabrase.a@gmail.com  :)
 <!--
 **AdityaDabrase/AdityaDabrase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
