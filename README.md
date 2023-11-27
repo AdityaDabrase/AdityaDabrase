@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on anything creative!
 - 🤔 I’m looking for help with iOS development
 - 💬 Ask me about Data analytics, statistics, python and Tableau
-- 📫 How to reach me: Dm on LinkedIn or E-mail: dabrase.a@gmail.com  :)
+- 📫 How to reach me: DM on LinkedIn or E-mail
 <!--
 **AdityaDabrase/AdityaDabrase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
