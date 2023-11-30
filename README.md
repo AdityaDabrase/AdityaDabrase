@@ -1,8 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on building data science applications 
 - 🌱 I’m currently learning Front end development
-- 👯 I’m looking to collaborate on anything creative!
-- 🤔 I’m looking for help with iOS development
 - 💬 Ask me about Data analytics, statistics, python and Tableau
 - 📫 How to reach me: DM on LinkedIn or E-mail
 <!--
@@ -17,5 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 👯 I’m looking to collaborate on anything creative!
+- 🤔 I’m looking for help with iOS development
 - ⚡ Fun fact: ...
 -->
