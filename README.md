@@ -3,6 +3,20 @@
 - 🌱 I’m currently learning Front end development
 - 💬 Ask me about Data analytics, statistics, python and Tableau
 - 📫 How to reach me: DM on LinkedIn or E-mail
+
+- ## Top Skills and Technologies
+- Python
+- R
+- Statistics
+- Machine Learning
+- Tableau
+- SQL
+
+## Contact Information
+- Email: dabrase.a@gmail.com
+- LinkedIn [My Profile] (https://www.linkedin.com/in/adityadabrase/)
+ 
+
 <!--
 **AdityaDabrase/AdityaDabrase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
