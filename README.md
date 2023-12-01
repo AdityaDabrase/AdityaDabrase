@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 - 🔭 I’m currently working on building data science applications 
 - 🌱 I’m currently learning Front end development
 - 💬 Ask me about Data analytics, statistics, python and Tableau
