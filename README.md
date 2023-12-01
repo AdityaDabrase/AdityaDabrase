@@ -1,11 +1,11 @@
-# Hi there 👋
+## Hi there 👋
 - 🔭 I’m currently working on building data science applications 
 - 🌱 I’m currently learning Front end development
 - 💬 Ask me about Data analytics, statistics, python and Tableau
 - 📫 How to reach me: DM on LinkedIn or E-mail
 
 
-## About me 
+# About me 
 
 As a Data Analyst, I successfully applied my skills in SQL, Tableau, Python, and IBM Cognos Analytics to deliver accurate and reliable insights for various business needs. I have demonstrated end-to-end ownership of Tableau dashboards, ensuring data quality, design, and utilization by cross-functional teams. I have also leveraged SQL scripting to verify and report data, addressing ad hoc requests swiftly and effectively.
 
