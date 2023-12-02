@@ -1,3 +1,6 @@
+![alt text](githubcover.png)
+
+
 # About Me
 ## Hi there 👋
 - 🔭 I’m currently working on building data science applications 
