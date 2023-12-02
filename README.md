@@ -1,4 +1,3 @@
-# Hi there! <img src="GIFS/Hi.gif" width="35" />
 
 <img src="GIFS/Hello.gif" width= "700" height="350"/> ! githubcover.png
 
