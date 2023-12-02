@@ -1,6 +1,6 @@
 # Hi there! <img src="GIFS/Hi.gif" width="35" />
 
-<img src="GIFS/Hello.gif" width="35" />
+<img src="GIFS/Hello.gif" width="350" />
 
 
 As a Data Analyst, I successfully applied my skills in SQL, Tableau, Python, and IBM Cognos Analytics to deliver accurate and reliable insights for various business needs. I have demonstrated end-to-end ownership of Tableau dashboards, ensuring data quality, design, and utilization by cross-functional teams. I have also leveraged SQL scripting to verify and report data, addressing ad hoc requests swiftly and effectively.
