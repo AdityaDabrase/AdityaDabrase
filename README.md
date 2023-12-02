@@ -1,4 +1,4 @@
-# Hi there! <img src="GIFS/Hi.gif" width="35" 
+# Hi there! <img src="GIFS/Hi.gif" width="35" />
 
 ![alt text](githubcover.png)
 
