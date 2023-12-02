@@ -13,17 +13,6 @@ I recently graduated from Humber College with a post-graduate degree in Business
 - 📫 How to reach me: DM on LinkedIn or E-mail
 
 
-# About me 
-
-
-
-
-
-
-
-
-
-
 <!--
 **AdityaDabrase/AdityaDabrase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
