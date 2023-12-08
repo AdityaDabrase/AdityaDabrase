@@ -30,7 +30,7 @@ A repository for data science projects and to keep documentation of useful codes
 -  Description: Models used: Linear Regression Decision Tree Random Forest Gradient Boosting SVM KNN.
 - Skills used:  Data Visualization, Pandas, Matplotlib, Seaborn, Python, Jupyter Notebooks, Machine Learning, Scikit-Learn, Predictive Modeling, Feature Engineering, Statistical Analysis, Data Cleaning, NumPy, Data Preprocessing, Hyperparameter Tuning, Classification Algorithms, Precision and Recall.
 
-## Project 4: [Logistic Regression Project](https://github.com/AdityaDabrase/DSPortfolioProjects/blob/main/DS-ML/LR/Visualization-of-logistic-regression-model-of-an-exemplary-subject-Both-variables.png)
+## Project 4: [Logistic Regression Project](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/LR)
 -  Description: Models used: Linear Regression Decision Tree Random Forest Gradient Boosting SVM KNN.
 - Skills used:  Data Visualization, Pandas, Matplotlib, Seaborn, Python, Jupyter Notebooks, Machine Learning, Scikit-Learn, Predictive Modeling, Feature Engineering, Statistical Analysis, Data Cleaning, NumPy, Data Preprocessing, Hyperparameter Tuning, Classification Algorithms, Precision and Recall.
 
