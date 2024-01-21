@@ -22,9 +22,9 @@ I recently graduated from Humber College with a post-graduate degree in Business
   
 
 ## Project 2: [Customer Segmentation using K-Means Algorithm](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/K%20means%20Algorithm)
--  Description: Models used: Linear Regression Decision Tree Random Forest Gradient Boosting SVM KNN.
-- Skills used:  The project involves a machine learning approach to predict death rates. Skills required include regression analysis, feature engineering to enhance predictive features, and the ability to evaluate and select the most suitable model. Statistical analysis skills are beneficial for understanding the underlying patterns in the data. Furthermore, expertise in data cleaning and preprocessing is essential to prepare the data for model training.
-
+-  Description:This project revolves around the application of the K-Means clustering algorithm to perform customer segmentation. Customer segmentation is a crucial task in marketing and business strategy, allowing companies to categorize customers based on similar attributes and behaviours. 
+- Skills used:  Data Cleaning and Preprocessing, K-Means Clustering Algorithm, Exploratory Data Analysis (EDA), Data Visualization, Machine Learning with scikit-learn, Statistical Analysis
+  
 ## Project 3: [Flight Delay Predictor](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/FlightDelayPredictor)
 -  Description: Models used: Linear Regression Decision Tree Random Forest Gradient Boosting SVM KNN.
 - Skills used: machine learning skills are essential, particularly in classification tasks if predicting delays versus no delays. Time series analysis might be necessary if considering time-dependent factors in predicting flight delays. Feature engineering skills are crucial to extract relevant information from the dataset. Model evaluation and selection skills are needed to choose the best predictive model. Data cleaning and preprocessing skills are important to handle missing or noisy data effectively.
