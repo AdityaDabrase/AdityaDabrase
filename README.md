@@ -12,7 +12,7 @@ I recently graduated from Humber College with a post-graduate degree in Business
 - 💬 Ask me about Data analytics, statistics, python and Tableau
 - 📫 How to reach me: DM on LinkedIn or E-mail
 
-![](https://github.com/AdityaDabrase/Data-Science-Projects/blob/main/DS.png) 
+![](https://github.com/AdityaDabrase/AdityaDabrase/blob/main/ds%20gif.gif) 
 
 
 # Portfolio Projects
