@@ -16,31 +16,39 @@ I recently graduated from Humber College with a post-graduate degree in Business
 
 
 # Portfolio Projects
-## Project 1: [911 calls analysis using Python ](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/911%20calls%20analysis)
+
+## Project 1:  [Heath Insurance charge Prediction](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/Insurance)
+-  Description: Many factors influence health insurance premiums, and understanding these variables is crucial for predicting costs accurately. This project explores the relationships between age, gender, BMI, number of children, smoking habits, and region with health insurance charges.
+- Skills used:  This project involves a diverse set of skills spanning data analysis, machine learning, data preprocessing, GitHub version control, Markdown documentation, statistical analysis, Jupyter Notebooks, Python programming, and regression modelling. The data analysis component includes exploratory data analysis (EDA) using Python libraries such as Pandas, NumPy, and Seaborn, visualizing data distributions, relationships, and summaries with Matplotlib and Seaborn, and interpreting statistical concepts like right-skewed distributions. Machine learning skills come into play with the implementation and evaluation of regression models, including Linear Regression, Ridge Regression, Lasso Regression, and Random Forest Regressor. Feature engineering, transformation, and selection, as well as handling categorical data using techniques like encoding, are part of the data preprocessing tasks. GitHub and version control facilitate collaborative development and code sharing. Documentation is created using Markdown, and the analysis is conducted in Jupyter Notebooks. The project also involves Python programming, specifically using libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-Learn. The exploration of feature importance in machine learning models and the application of Polynomial Regression to capture non-linear relationships further enhance the depth and complexity of the project. Collectively, these skills contribute to a holistic approach in predicting health insurance charges based on various influencing factors.
+
+  
+## Project 2: [911 calls analysis using Python ](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/911%20calls%20analysis)
 - Description: Analyzing some 911 call data from Kaggle. (Exploratory data analysis and Data visualization)
 - Skills used:  the skills required include proficient data cleaning and preprocessing abilities to handle emergency call data effectively. Exploratory Data Analysis (EDA) skills are crucial to understand patterns and trends in the data. Additionally, strong data visualization skills using libraries like Matplotlib and Seaborn are essential to present insights visually. If the analysis involves temporal data, skills in time series analysis become relevant. For projects dealing with geographic data, proficiency in geographic data analysis is necessary to make sense of location-based information.
   
 
-## Project 2: [Customer Segmentation using K-Means Algorithm](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/K%20means%20Algorithm)
+## Project 3: [Customer Segmentation using K-Means Algorithm](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/K%20means%20Algorithm)
 -  Description:This project revolves around the application of the K-Means clustering algorithm to perform customer segmentation. Customer segmentation is a crucial task in marketing and business strategy, allowing companies to categorize customers based on similar attributes and behaviours. 
 - Skills used:  Data Cleaning and Preprocessing, K-Means Clustering Algorithm, Exploratory Data Analysis (EDA), Data Visualization, Machine Learning with scikit-learn, Statistical Analysis
   
-## Project 3: [Flight Delay Predictor](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/FlightDelayPredictor)
+## Project 4: [Flight Delay Predictor](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/FlightDelayPredictor)
 -  Description: Models used: Linear Regression Decision Tree Random Forest Gradient Boosting SVM KNN.
 - Skills used: machine learning skills are essential, particularly in classification tasks if predicting delays versus no delays. Time series analysis might be necessary if considering time-dependent factors in predicting flight delays. Feature engineering skills are crucial to extract relevant information from the dataset. Model evaluation and selection skills are needed to choose the best predictive model. Data cleaning and preprocessing skills are important to handle missing or noisy data effectively.
 
-## Project 4: [Logistic Regression Project](https://github.com/AdityaDabrase/DSPortfolioProjects/blob/main/DS-ML/LR/Visualization-of-logistic-regression-model-of-an-exemplary-subject-Both-variables.png)
+## Project 5: [Logistic Regression Project](https://github.com/AdityaDabrase/DSPortfolioProjects/blob/main/DS-ML/LR/Visualization-of-logistic-regression-model-of-an-exemplary-subject-Both-variables.png)
 -  Description: Models used: Linear Regression Decision Tree Random Forest Gradient Boosting SVM KNN.
 - Skills used: machine learning skills are employed, specifically logistic regression for binary classification tasks. Model evaluation and selection skills are crucial for assessing the performance of the logistic regression model. Feature engineering is important to identify and use relevant features for classification. Data cleaning and preprocessing skills are necessary for preparing the data for training the logistic regression model.
 
-## Project 5: [Linear Regression Project](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/Linear%20Regression%20Project)
+## Project 6: [Linear Regression Project](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/Linear%20Regression%20Project)
 -  Description: Models used: Linear Regression Decision Tree Random Forest Gradient Boosting SVM KNN.
 - Skills used: skills involve linear regression for regression analysis. Model evaluation and selection skills are crucial for assessing the performance of the linear regression model. Feature engineering is important for identifying and utilizing relevant features in the regression analysis. Data cleaning and preprocessing skills are necessary for preparing the data for training the linear regression model.
 
-## Project 6:  [Death Rate Prediction](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/Death%20rate%20prediction)
+## Project 7:  [Death Rate Prediction](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/Death%20rate%20prediction)
 -  Description: Models used: Linear Regression Decision Tree Random Forest Gradient Boosting SVM KNN.
 - Skills used:  The project involves a machine learning approach to predict death rates. Skills required include regression analysis, feature engineering to enhance predictive features, and the ability to evaluate and select the most suitable model. Statistical analysis skills are beneficial for understanding the underlying patterns in the data. Furthermore, expertise in data cleaning and preprocessing is essential to prepare the data for model training.
 
+
+https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/Insurance
 <!--
 **AdityaDabrase/AdityaDabrase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
