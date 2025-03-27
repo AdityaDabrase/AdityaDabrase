@@ -7,13 +7,6 @@
 - 📫 How to reach me: DM on LinkedIn or E-mail me at: dabrase.a@gmail.com
 
 
-I recently graduated from Humber College with a post-graduate degree in Business Insights and Analytics, where I learned new concepts relevant to data science. I am looking for a full-time role as a Data Scientist or Data Analyst, where I can contribute to the growth and success of the organization with my passion and expertise in the subjects.
-
-
-
-
-![](https://github.com/AdityaDabrase/AdityaDabrase/blob/main/DS.jpg) 
-
 <!--
 # Portfolio Projects
 
