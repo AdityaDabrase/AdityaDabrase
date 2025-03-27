@@ -14,7 +14,7 @@ I recently graduated from Humber College with a post-graduate degree in Business
 
 ![](https://github.com/AdityaDabrase/AdityaDabrase/blob/main/DS.jpg) 
 
-
+<!--
 # Portfolio Projects
 
 ## Project 1:  [Heath Insurance charge Prediction](https://github.com/AdityaDabrase/DSPortfolioProjects/tree/main/DS-ML/Insurance)
@@ -94,4 +94,5 @@ This project aimed to predict customer purchasing behavior for a supermarket's n
   - [IBM SPSS - A Comprehensive Guide to Data Analysis and Data Modeling](https://github.com/subhanjandas/IBM-SPSS---A-Comprehensive-Guide-to-Data-Analysis-and-Data-Modeling) - <br> IBM SPSS Modeler is a comprehensive data analysis and modeling tool. This repository is a compilation of exercises outlined in the "Introduction to IBM SPSS Modeler" document by IBM. It covers the essential steps of data import, preparation, visualization, and model building. The repository includes building decision trees and linear regression models, demonstrating the tool's modeling capabilities. </br>
   - [Telecomm Customer Churn - Data Modeling and Finding Main Drivers with IBM Cognos Analytics](https://github.com/subhanjandas/Data-Modelling-and-Dashboarding-with-IBM-Cognos-Analytics) - <br> In this project, IBM Cognos Analytics was used to analyze Telecomm customer churn data to determine the main drivers affecting customer churn. By answering questions such as what were the top three key drivers affecting churn, insights were gained on customer tenure with fiber optic, payment method, and internet service type. The results showed that customers with a tenure less than three months and fiber optic service, paying with electronic check, had the highest churn rate. </br>
 
+-->
 -->
