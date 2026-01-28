@@ -1,7 +1,6 @@
 # About Me:
-🔭 I’m currently working on - A few projects - Tableau/ SQL/ AI agents
-<br>🌱 I’m currently learning - Web Development
-<br>💬 Ask me about - Data Analysis, Statistics, Visualization, ML
+<br>🌱 I’m currently learning - Apache Airflow, Spark, and Hadoop
+<br>💬 Ask me about - Data Engineering, Statistics, ML Data Visualization
 
 
 ## 🌐 Socials:
