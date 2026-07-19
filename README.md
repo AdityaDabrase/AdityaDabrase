@@ -19,7 +19,7 @@ I build end-to-end analytics systems: experiment design, data pipelines, and rep
 
 More projects (EDA, classic ML, reports): **[DSPortfolioProjects](https://github.com/AdityaDabrase/DSPortfolioProjects)**
 
-**Also building:** [Smart Grocery Planner](https://github.com/AdityaDabrase/project-hx) (FastAPI nutrition + grocery planning) — demo on request.
+**Also building:** [Smart Grocery Planner](https://github.com/AdityaDabrase/smart-grocery-planner) (FastAPI nutrition + grocery planning) — demo on request.
 
 ---
 
